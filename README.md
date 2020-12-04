@@ -1,1 +1,1 @@
-# gooadu.github.io
+# gablog sources
