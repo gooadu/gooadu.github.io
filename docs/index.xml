@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://example.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2020 14:45:16 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page2-1</title>
+      <link>http://example.org/basics/second-content/page2-1/</link>
+      <pubDate>Fri, 04 Dec 2020 14:45:16 +0800</pubDate>
+      
+      <guid>http://example.org/basics/second-content/page2-1/</guid>
+      <description>H1 aaa
+ bbb  H2  ccc ddd  H3  eee  </description>
+    </item>
+    
+    <item>
+      <title>Page1-1</title>
+      <link>http://example.org/basics/page1-1/</link>
+      <pubDate>Fri, 04 Dec 2020 14:45:14 +0800</pubDate>
+      
+      <guid>http://example.org/basics/page1-1/</guid>
+      <description>H1  aaa bbb ccc  H2  ddd eee fff  H3  ggg hhh  </description>
+    </item>
+    
+  </channel>
+</rss>
